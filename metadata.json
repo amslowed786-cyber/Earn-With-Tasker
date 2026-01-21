@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Earn With Tasker",
+  "description": "A VIP-based earning application where users complete tasks for rewards, featuring a robust admin panel for management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
